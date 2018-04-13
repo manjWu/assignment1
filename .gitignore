@@ -1,5 +1,5 @@
 *.swp
 *.pyc
-.env/
+.env/*
 # ignore dir
-cs231n/datasets*
+cs231n/datasets
